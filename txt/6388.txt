@@ -1,0 +1,1 @@
+gs1, one, sw, gs3, three, gs2, two

@@ -1,0 +1,1 @@
+zaal, 1, one, foyer, 2., two, expositieruimte, aula, 2, two, +

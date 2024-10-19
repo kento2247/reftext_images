@@ -1,0 +1,1 @@
+10, ten, 11, eleven, emta, .10, ten

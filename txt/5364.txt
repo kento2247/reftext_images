@@ -1,0 +1,1 @@
+10, ten, 21, twenty-one, 2d.3e, two, three, 20.ie, twenty, 20.4e, twenty, four, 20.6e, twenty, six, 20.5e., twenty, five, 4., four, 6, six, 5, five, 20.5e, twenty, five, 2d.ie, two, 20.45, twenty, forty-five, 20.22, twenty, twenty-two, 9, nine, 2, two, 13, thirteen, 142, one hundred and forty-two, 4, four, -, o

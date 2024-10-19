@@ -1,0 +1,1 @@
+10, ten, 8, eight, 6, six, 5, five, 65, sixty-five, "11, eleven, 12, twelve, 1', one, eq

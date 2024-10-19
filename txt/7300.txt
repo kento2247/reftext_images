@@ -1,0 +1,1 @@
+11, eleven, 6., six, 8, eight, 2., two, 4., four, 12, twelve, 00, zero, 5, five, 7, seven, 6, six, 3, three, 2, two, 1, one, 0, zero
